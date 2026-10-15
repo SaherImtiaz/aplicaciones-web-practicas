@@ -8,12 +8,16 @@ Los objetivos de esta práctica son:
 ## 2. Preparación del sistema
 ### 2.1. Actualización de la lista de paquetes
 Comando ejecutado: *sudo apt update*
+
 Resultado obtenido: La lista de paquetes se actualizó correctamente y el sistema volvió a mostrar el indicador de la terminal.
 ### 2.2. Comprobación del servicio Apache
 Comando ejecutado: *systemctl is-active apache2*
+
 Resultado obtenido: *Active*
+
 Explicación: El comando permite comprobar si el servicio Apache está funcionando. El resultado active indica que el servidor web está activo en ese momento.
-Captura de pantalla:
+
+[Captura De Pantalla] (<Images/P-MariaDB-01>)
 ## 3. Apartado 2. Instalación de MariaDB
 ### 3.1. Instalación del servidor
 Comando ejecutado:
