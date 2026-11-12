@@ -2,7 +2,7 @@
 
 ### A1. Verdadero - Falso
 
-| Nº | Afirmación | V / F | Corrección |
+| N.º | Afirmación | V / F | Corrección |
 |---|---|---|---|
 | 1 | HTML es un lenguaje de programación como Python: sirve para hacer cálculos y tomar decisiones. | F | HTML no es un lenguaje de programación, sino un lenguaje de marcado que sirve para estructurar el contenido de una página web. |
 | 2 | La etiqueta `<br>` no necesita etiqueta de cierre. | V | No necesita etiqueta de cierre y sirve para introducir un salto de línea. |
