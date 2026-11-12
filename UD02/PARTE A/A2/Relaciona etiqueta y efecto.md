@@ -1,6 +1,6 @@
 ### A2. Relaciona etiqueta y efecto
 
-| Nº | Etiqueta | Respuesta | Efecto |
+| N.º | Etiqueta | Respuesta | Efecto |
 |---|---|---|---|
 | 1 | `<mark>` | B | Texto remarcado, como con un fosforito |
 | 2 | `<del>` | A | Texto tachado (precio antiguo de una oferta) |
