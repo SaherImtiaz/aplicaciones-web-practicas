@@ -1,0 +1,12 @@
+## A3. ¿Absoluto o relativo?
+
+| N.º | Dirección | Tipo |
+|:---:|---|:---:|
+| 1 | `https://www.w3.org/` | Absoluto |
+| 2 | `paginas/contacto.html` | Relativo |
+| 3 | `/css/default.asp` | Relativo |
+| 4 | `https://www.google.com/` | Absoluto |
+| 5 | `./apuntes.pdf` | Relativo |
+| 6 | `imagenes/logo.png` | Relativo |
+
+---
