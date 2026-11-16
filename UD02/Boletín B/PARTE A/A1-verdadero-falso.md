@@ -1,6 +1,6 @@
 ## A1. Verdadero o Falso
 
-| N.º | Afirmación | V / F |
+| Nº | Afirmación | V / F |
 |:---:|---|:---:|
 | 1 | La etiqueta `<img>` se cierra con `</img>`. | F |
 | 2 | El atributo `alt` muestra un texto si la imagen no se puede cargar. | V |
