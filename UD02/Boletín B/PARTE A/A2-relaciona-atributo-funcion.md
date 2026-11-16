@@ -10,4 +10,3 @@
 | 6. `float` | F. Indica dónde se abrirá el destino del enlace | E |
 | 7. `_blank` | G. Texto que se muestra si la imagen no carga | C |
 
----
